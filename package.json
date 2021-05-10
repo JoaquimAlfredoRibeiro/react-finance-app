@@ -17,7 +17,7 @@
     "express-query-int": "^1.0.1",
     "install": "^0.13.0",
     "jsonwebtoken": "^7.3.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "mongoose": "^4.7.0",
     "mongoose-paginate": "^5.0.3",
     "node-pre-gyp": "^0.14.0",
